@@ -1,2 +1,3 @@
 # Discord.js-Random-Number-Generator
-Just a command
+RN is the less complicated and the old version
+Random is the new version of the command / upgraded
